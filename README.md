@@ -1,1 +1,1 @@
-# devops-netilogy
+# devops-netilogy - Филатов А. В.
