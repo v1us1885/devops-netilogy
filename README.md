@@ -1,4 +1,6 @@
 # devops-netilogy
+
+
 1. Local .terraform directories:   
 Игнорируются все подкаталоги .terraform внутри текущего каталога и всех его подкаталогов.   
 ```
